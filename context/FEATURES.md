@@ -1,0 +1,10 @@
+- Admin
+  - List users: email - last login datetime
+  - Pagination
+  - Filter by email
+  - Invite new user: email and name
+  - Send an invitation email with a url valid for 3 days
+- Login
+  - Login by email
+  - An login email is sent to the user
+  - An email is sent to the user with a url valid for 1 hour
